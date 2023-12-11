@@ -1,47 +1,48 @@
-<body>
-<header>
-<div class=”caixa”>
-<image src=”logo.png”></image>
-<nav>
-<ul>
-<li><a href=”index.html”>Home</a></li>
-<li><a href=”Produtos.html”>Produtos</a></li>
-<li><a href=”contato.html”>Contato</a></li>
-</ul>
-</nav>
-</div>
-</header>
-</body>
-</header>
-<main>
-</main>
-</body>
-<main>
-<ul>
-<li>Cabelo</li>
-<li>Barba</li>
-<li>Cabelo + Barba</li>
-</ul>
-</main>
-<ul>
-<li>
-<h2>Cabelo</h2>
-</li>
-<li>
-<h2>Barba</h2>
-</li>
-<li>
-<h2>Cabelo + Barba</h2>
-</li>
-</ul>
-<li>
-<h2>Cabelo</h2>
-<img src=”cabelo.jpg”>
-</li>
-<li>
-<h2>Barba</h2>
-<img src=”barba.jpg”>
-</li>
-<li>
-<h2>Cabelo + Barba</h2>
-<img src=”cabelo+barba.jpg”
+#banner {
+	width:100%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
