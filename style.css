@@ -1,0 +1,47 @@
+<body>
+<header>
+<div class=”caixa”>
+<image src=”logo.png”></image>
+<nav>
+<ul>
+<li><a href=”index.html”>Home</a></li>
+<li><a href=”Produtos.html”>Produtos</a></li>
+<li><a href=”contato.html”>Contato</a></li>
+</ul>
+</nav>
+</div>
+</header>
+</body>
+</header>
+<main>
+</main>
+</body>
+<main>
+<ul>
+<li>Cabelo</li>
+<li>Barba</li>
+<li>Cabelo + Barba</li>
+</ul>
+</main>
+<ul>
+<li>
+<h2>Cabelo</h2>
+</li>
+<li>
+<h2>Barba</h2>
+</li>
+<li>
+<h2>Cabelo + Barba</h2>
+</li>
+</ul>
+<li>
+<h2>Cabelo</h2>
+<img src=”cabelo.jpg”>
+</li>
+<li>
+<h2>Barba</h2>
+<img src=”barba.jpg”>
+</li>
+<li>
+<h2>Cabelo + Barba</h2>
+<img src=”cabelo+barba.jpg”
