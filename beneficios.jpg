@@ -1,7 +1,44 @@
-<li><a href=”index.html”>Home</a></li>
-<li><a href=”Produtos.html”>Produtos</a></li>
-<li>Contato</li>
+header {
+}
+header {
+background: #BBBBBB;
+}
+<nav>
+
+<ul>
 <li><a href=”index.html”>Home</a></li>
 <li><a href=”Produtos.html”>Produtos</a></li>
 <li><a href=”contato.html”>Contato</a></li>
-<li><a href=”https://www.google.com.br/”>Contato</a></li>
+</ul>
+</nav>
+nav li {
+display: inline;
+}
+nav a {
+text-transform: uppercase;
+}
+text-transform: uppercase;
+color: #000000;
+}
+nav a {
+text-transform: uppercase;
+color: #000000;
+font-weight: bold;
+}
+nav a {
+text-transform: uppercase;
+color: #000000;
+font-weight: bold;
+font-size: 22px;
+}
+nav a {
+text-transform: uppercase;
+color: #000000;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;
+}
+nav li {
+display: inline;
+margin:
+}
