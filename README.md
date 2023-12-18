@@ -2,11 +2,8 @@
 
 <!DOCTYPE html>
 <html>
-</html>
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <head>
     <meta charset=”UTF-8”>
 <title>Produtos - Barbearia Alura</title>
@@ -14,7 +11,6 @@
 <title>Produtos - Barbearia Alura</title>
 <link rel=”stylesheet” href=”Produtos.css”>
 <body>
-    <header>
     </header>
     </body>
     <header>
